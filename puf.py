@@ -7,3 +7,4 @@ def puf(lst, number):
         added = lst[0]
         lst.pop(0)
         lst.append(added)
+        
